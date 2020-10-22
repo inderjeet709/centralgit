@@ -1,1 +1,1 @@
-FRIAA3PR001 cli% checkhealth -svc -detail
+When you add one VM to two different jobs the backup will be processed twice independently from each other. The second backup job will not use any data from the first one.
