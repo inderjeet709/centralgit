@@ -1,1 +1,1 @@
-When you add one VM to two different jobs the backup will be processed twice independently from each other. The second backup job will not use any data from the first one.
+When you add one VM to two different jobs the backup will be processed twice independently from each other. The second backup job will not use any data from the first one.By activating a SmartPools license, you can create file pool policies that store files in these tiers automatically, based on file-matching criteria that you specify
